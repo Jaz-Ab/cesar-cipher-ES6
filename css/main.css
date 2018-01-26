@@ -1,0 +1,42 @@
+body {
+  background: #EEEEEE;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+.form {
+  text-align: center;
+}
+
+#cipher {
+  display: inline-block;
+  margin-left: 40%;
+  margin-top: 40px;
+  width: 10%;
+}
+
+#des-cipher {
+  display: inline-block;
+  width: 10%;
+}
+
+.form-result {
+  margin-top: 40px;
+  text-align: center;
+}
+
+input {
+  border-radius: 5px;
+  height: 15px;
+  padding: 6px;
+}
+
+button {
+  border-radius: 3px;
+  background: pink;
+  height: 30px;
+}
